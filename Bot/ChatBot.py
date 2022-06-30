@@ -7,6 +7,7 @@ import random
 import pickle
 import json
 from Bot import path
+
 nltk.download('punkt')
 
 class ChatBot(object):
