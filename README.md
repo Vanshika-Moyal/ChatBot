@@ -2,7 +2,7 @@
 # About BuzzWomen Bot
 
 - BuzzWomen Bot is an interactive, messaging app-agnostic chatbot engine to do business counselling for low-income women entrepreneurs from rural areas.
-- It uses AI/ML/NLP technologies and has multi-lingual functionality supporting more than 100 languages.
+- It uses DL/NLP technologies and has multi-lingual functionality supporting more than 100 languages.
 
 
 
